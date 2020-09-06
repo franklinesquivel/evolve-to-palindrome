@@ -29,8 +29,8 @@ For each integer N, a line will be displayed indicating the minimum number of it
 necessary to calculate the palindrome, a soft space and the palindrome itself.
 
 ### Example
->**Input:** 3, 195, 265, 750
-**Ouput**: 
+>**Input:** 3, 195, 265, 750  
+ **Ouput**: 
 ```
 4 9339
 5 45254
