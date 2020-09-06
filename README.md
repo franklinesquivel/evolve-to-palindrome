@@ -1,5 +1,5 @@
-# Palindrome Evolution: Invert and Add
-***
+# Palindrome Evolution: Invert and Add :cherry_blossom:
+
 The invert and add function starts from a number from which another is obtained with the order of their
 inverted digits, and add both. If the sum is not a palindrome, the procedure will be repeated.
 For example, if you start with 195 as the starting number, you will get the palindrome 9339
@@ -30,17 +30,14 @@ necessary to calculate the palindrome, a soft space and the palindrome itself.
 
 ### Example
 >**Input:** 3, 195, 265, 750
->>**Ouput**: 
+>**Ouput**: 
 ```
 4 9339
 5 45254
 3 6666
 ```
 
-
-
 # Execute code
-***
 
 ### Install dependencies
 `npm install`
