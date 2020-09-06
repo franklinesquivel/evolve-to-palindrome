@@ -30,7 +30,7 @@ necessary to calculate the palindrome, a soft space and the palindrome itself.
 
 ### Example
 >**Input:** 3, 195, 265, 750
->**Ouput**: 
+**Ouput**: 
 ```
 4 9339
 5 45254
